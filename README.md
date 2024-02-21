@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/41723241/200609689-833f5901-70de-4ba3-aa6f-7a906aa35163.png">
   <h3 align="center">date-box</h3>
   <p align="center">🗓 Update a pinned gist to contain your anniversaries and countdown days (or hours)</p>
